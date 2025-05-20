@@ -1,0 +1,31 @@
+{
+  "bot_token": "7752617926:AAFcn0eD07x7k9yezptRLKoKKHOGORQ-XIk",
+  "chat_id": "1505995566",
+  "symbols": [
+    {
+      "name": "R_100",
+      "timeframes": [
+        {
+          "fast_ma": 5,
+          "slow_ma": 20,
+          "granularity": 60
+        },
+        {
+          "fast_ma": 10,
+          "slow_ma": 50,
+          "granularity": 300
+        }
+      ]
+    },
+    {
+      "name": "R_75",
+      "timeframes": [
+        {
+          "fast_ma": 8,
+          "slow_ma": 21,
+          "granularity": 60
+        }
+      ]
+    }
+  ]
+}
